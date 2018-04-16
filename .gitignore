@@ -2,4 +2,4 @@ __pycache__
 *.log
 *.json
 config.py
-socks5.txt
+*.txt
